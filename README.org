@@ -1,0 +1,20 @@
+* Camlsnake
+  Snake made in Ocaml. This was made using Raylib with C interoperability.
+  The purpose of this was to learn Ocaml.
+
+** Building
+   Dependencies
+   - clang
+   - ocamlc
+   - sh
+   - Raylib
+
+   Run following command to build:
+   #+begin_src bash
+   ./build.sh
+   #+end_src
+
+   Execute:
+   #+begin_src bash
+   ./snake_caml
+   #+end_src

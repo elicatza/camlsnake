@@ -1,0 +1,9 @@
+.ccls-cache
+_build
+*.cmi
+*.cmo
+*.so
+snake_caml
+snake_caml.opam
+dune-project
+bin/dune

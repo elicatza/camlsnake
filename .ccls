@@ -1,0 +1,8 @@
+clang
+#c
+#h
+-Wall
+-Wextra
+-pedantic
+-I/usr/lib/ocaml
+-lraylib
